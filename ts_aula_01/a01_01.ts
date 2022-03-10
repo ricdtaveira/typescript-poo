@@ -1,6 +1,7 @@
 
 // Definindo variaveis com o var
 // 
+
 var mensagemForaDoIf = 'mensagem fora do if';
 
 if (true) {
